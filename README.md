@@ -6,6 +6,13 @@ The application provides a simple drag-and-drop interface where users can upload
 
 The model is trained on **third-quarter front and rear view vehicle images**, therefore images should capture the **front or rear three-quarter view of the vehicle** for better prediction accuracy.
 
+## 🌐 Live Demo
+
+Try the application here:
+
+🔗 **Streamlit Demo:**  
+https://car-damage-prediction-q5n5ghedfhfde4jqxhsx5j.streamlit.app/
+
 ![App Screenshot](app_screenshot.jpg)
 
 
